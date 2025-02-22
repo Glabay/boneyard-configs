@@ -1,5 +1,5 @@
 title=Near-Reality
-codebase=http://168.149.231.247
+codebase=https://168.149.231.247
 initial_class=client.class
 initial_jar=http://localhost/gamepack.jar
 param=2=https://payments.jagex.com/
