@@ -1,4 +1,4 @@
-title=Near-Reality
+title=Boneyard
 codebase=http://127.0.0.1
 initial_class=client.class
 initial_jar=http://localhost/gamepack.jar
