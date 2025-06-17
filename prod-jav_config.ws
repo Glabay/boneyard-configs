@@ -1,5 +1,5 @@
 title=Boneyard
-codebase=https://31.220.101.243
+codebase=https://31.220.101.243/
 initial_class=client.class
 initial_jar=http://localhost/gamepack.jar
 param=2=https://payments.jagex.com/
